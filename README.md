@@ -13,3 +13,7 @@ https://streamable.com/dvtxft
 > **Download**
 
 https://github.com/NeenGame/neen-antiflawless
+
+> **Discord**
+
+http://discord.bbv.world/
