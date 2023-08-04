@@ -31,6 +31,6 @@ CreateThread(function()
                 end
             end
         end
-        Wait(1500)
+        Wait(1500) --- wait
     end
 end)
