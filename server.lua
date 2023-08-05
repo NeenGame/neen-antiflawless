@@ -15,4 +15,4 @@ local function CheckVersion()
 		print(advice)
 	end)
 end
-CheckVersion()
+CheckVersion() -- version check
