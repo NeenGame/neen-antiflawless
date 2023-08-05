@@ -1,6 +1,6 @@
 RegisterNetEvent('neen-antiflawless:server:kick:vinka', function(fov)
     DropPlayer(source, 'Flawless Widescreen Detected fov: ' ..fov)
-end)
+end) --
 
 local function CheckVersion()
 	PerformHttpRequest('https://raw.githubusercontent.com/NeenGame/neen-antiflawless/master/version.txt', function(err, newestVersion, headers)
